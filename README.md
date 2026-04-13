@@ -43,13 +43,6 @@ I break down complex ML/AI research papers and make them accessible to everyone.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avbiswas&theme=radical&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avbiswas&theme=radical&layout=compact)
-
----
-
 ## ❤️ Support My Work
 
 If my content helps you learn, consider:
