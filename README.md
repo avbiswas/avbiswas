@@ -10,7 +10,7 @@
 [![X](https://img.shields.io/badge/X-neural_avb-000000?logo=x&logoColor=white)](https://x.com/neural_avb)
 [![Patreon](https://img.shields.io/badge/Patreon-Support%20My%20Work-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/NeuralBreakdownwithAVB)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20My%20Work-EA4AAA?logo=github&logoColor=white)](https://github.com/sponsors/avbiswas)
-[![Website](https://img.shields.io/badge/Blog-Paper%20Breakdown-4CAF50?logo=book&logoColor=white)](https://paperbreakdown.com)
+[![Website](https://img.shields.io/badge/Website-Paper%20Breakdown-4CAF50?logo=book&logoColor=white)](https://paperbreakdown.com)
 
 ---
 
