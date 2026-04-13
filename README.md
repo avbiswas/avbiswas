@@ -16,8 +16,8 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stars |
-|--------|-------------|-------|
+| Project | Description |
+|--------|-------------|
 | [fast-rlm](https://github.com/avbiswas/fast-rlm) | Recursive Language Models implementation |
 | [context-engineering-dspy](https://github.com/avbiswas/context-engineering-dspy) | Context Engineering Course with DSPy |
 | [mem0-dspy](https://github.com/avbiswas/mem0-dspy) | Agentic Memory architecture in DSPy |
