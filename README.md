@@ -12,21 +12,7 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Support%20My%20Work-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/NeuralBreakdownwithAVB)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20My%20Work-EA4AAA?logo=github&logoColor=white)](https://github.com/sponsors/avbiswas)
 
----
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avbiswas&theme=dark&show_icons=true&include_all_commits=true" alt="Avishek Biswas"/>
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avbiswas&&theme=github-compact" alt="Avishek Biswas's github activity graph"/>
-
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=avbiswas&theme=algolia&column=-1" alt="Avishek Biswas" /></a> </p>
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avbiswas&label=Profile%20views&style=for-the-badge" alt="Avishek Biswas"/>
-</p>
-
----
+--- 
 
 ## 🚀 Featured Projects
 
@@ -46,6 +32,18 @@
 [View all projects →](https://github.com/avbiswas?tab=repositories)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avbiswas&theme=dark&show_icons=true&include_all_commits=true" alt="Avishek Biswas"/>
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avbiswas&&theme=github-compact" alt="Avishek Biswas's github activity graph"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avbiswas&label=Profile%20views&style=for-the-badge" alt="Avishek Biswas"/>
+</p>
+
+---
+
 
 ## 📺 Featured Content
 
