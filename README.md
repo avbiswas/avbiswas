@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Avishek Biswas
 
-**ML Guy** | **MS in CS** | Creator of [Neural Breakdown with AVB](https://www.youtube.com/@avb_fj)
+**ML Guy** | Creator of [Neural Breakdown with AVB](https://www.youtube.com/@avb_fj) | Built [Paper Breakdown](paperbreakdown.com)
+
+[More about Me](https://neuralavb.com/)
 
 ---
 
