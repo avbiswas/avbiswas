@@ -52,8 +52,9 @@
 I break down complex ML/AI research papers and make them accessible to everyone. Check out:
 
 - **[Neural Breakdown with AVB](https://www.youtube.com/@avb_fj)** — My Youtube channel and love letter to ML
-- **[Paper Breakdown](https://paperbreakdown.com)** — My website where I study papers with AI and write about them
+- **[Paper Breakdown](https://paperbreakdown.com)** — I built this so students/researchers can study papers with AI and write about them
 - **[X](https://x.com/neural_avb)** - I am on X, follow updates of my work here!
+- **[Portfolio](https://neuralavb.com)** - My portfolio
 
 ---
 
