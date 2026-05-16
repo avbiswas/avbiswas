@@ -30,6 +30,7 @@
 | [mlx-vlm-batch-outlines](https://github.com/avbiswas/mlx-vlm-batch-outlines) | MLX VLM batch constrained decoding |
 | [finetuning_recipes](https://github.com/avbiswas/finetuning_recipes) | Fine-tuning recipes for LLMs |
 | [notebook-tui](https://github.com/avbiswas/notebook-tui) | Notebook Terminal UI + Headless Renderer |
+| [shadow-rogue](https://github.com/avbiswas/shadow-rogue-self-play) | Self Playing RL Agent learning to dodge projectiles |
 
 [View all projects →](https://github.com/avbiswas?tab=repositories)
 
