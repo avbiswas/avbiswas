@@ -31,6 +31,7 @@
 | [finetuning_recipes](https://github.com/avbiswas/finetuning_recipes) | Fine-tuning recipes for LLMs |
 | [notebook-tui](https://github.com/avbiswas/notebook-tui) | Notebook Terminal UI + Headless Renderer |
 | [shadow-rogue](https://github.com/avbiswas/shadow-rogue-self-play) | Self Playing RL Agent learning to dodge projectiles |
+| [mlx-sam](https://github.com/avbiswas/sam2-mlx) | A MLX port of Facebook's SAM-2 models |
 
 [View all projects →](https://github.com/avbiswas?tab=repositories)
 
